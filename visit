@@ -1,0 +1,1286 @@
+<!-- Created by ashaba micah -->
+
+<!-- Images taken from anonymous -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+    <title>visit kigezi</title>
+
+    <!-- google fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Alatsi' rel='stylesheet'>
+
+</head>
+<body>
+    
+    <div class="loader">
+        <div class="spinner">
+            
+        </div>
+        <p class="head">Visit kigezi</p>
+    </div>
+
+    <nav>
+        <p> <i class="fa fa-arrow-left"></i> <span class="name">   Visit</span>   <span>  Kigezi</span></p>
+
+        <div class="times">
+            <p></p>
+            <p></p>
+            <p></p>
+        </div>
+
+        <div class="nav-landscape-bar">
+            <p class="home-l">HOME</p>
+            <p class="about-l">ABOUT US</p>
+            <p class="contact-l">CONTACT US</p>
+        </div>
+
+    </nav>
+
+    <div class="nav-menu">
+        <p class="home-e">HOME</p>
+        <p class="about-e">ABOUT US</p>
+        <p class="contact-e">CONTACT US</p>
+    </div>
+
+    
+    <div class="home">
+        
+
+        <div class="m-card">
+        
+
+            <div class="t">
+                
+                <p class="h">Adventure Awaits, <br> Go Find It</p>
+
+                <p class="t">Where you want to go?</p>
+            </div>
+
+            <div class="where-to">
+                <p>
+                     <input type="text" placeholder="Destination"> <i class="fa fa-map-marker"></i>
+                </p>
+                <p>
+                    <input type="date"> 
+                </p>
+                <p>
+                    
+                    <input type="date">
+                    
+                </p>
+
+                <button>Search   <i class="fa fa-search"></i></button>
+            </div>
+        </div>
+
+        <div class="popular-destinations">
+            <p class="head">Popular Destinations</p>
+            <span></span>
+
+            <div class="carousel">
+                <div class="controls">
+                    <div class="prev"> <i class="fa fa-arrow-left"></i> </div>
+                    <div class="next"> <i class="fa fa-arrow-right"></i>  </div>
+
+                    <div class="view-all">View all</div>
+                </div>
+
+
+                <div class="card">
+                    <div class="face face1">
+                        
+                        <div class="img">
+
+                            <div class="spinner"></div>
+
+                            <img src="" alt="https://i.ibb.co/93k2Dg0/greenland.jpg" onerror="this.style.display = 'none';">
+                            <p class="p-tag">#kisoro</p>
+                        </div>
+
+                        <div class="cont">
+                            <p class="name">Kisoro<i class="fa fa-chevron-right"></i></p>
+
+                            <p class="text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi harum ut, consequuntur impedit ipsa eaque.
+                            </p>
+
+                            <div class="i">
+                                
+                                <p class="dur">
+                                    <i class="fa fa-clock-o"></i>   
+                                    <span>  10 Days</span>
+                                </p>
+
+                                <div class="rating">
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star n"></i>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="face face2">
+                        
+
+                        <div class="img">
+
+                            <div class="spinner"></div>
+
+                            <img src="" alt="https://i.ibb.co/wBmXFtP/cape-town.jpg" onerror="this.style.display = 'none';">
+                            <p class="p-tag">$ 2,500</p>
+                        </div>
+
+                        <div class="cont">
+                            <p class="name">Cape Town <i class="fa fa-chevron-right"></i></p>
+
+                            <p class="text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi harum ut, consequuntur impedit ipsa eaque.
+                            </p>
+
+                            <div class="i">
+                                
+                                <p class="dur">
+                                    <i class="fa fa-clock-o"></i>   
+                                    <span>  12 Days</span>
+                                </p>
+
+                                <div class="rating">
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star h"></i>
+                                    <i class="fa fa-star n"></i>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="face face3">
+                        
+
+                        <div class="img">
+
+                            <div class="spinner"></div>
+
+                            <img src="" alt="https://i.ibb.co/mFsxV1H/las-vegas.jpg" onerror="this.style.display = 'none';">
+                            <p class="p-tag">$ 4,000</p>
+                        </div>
+
+                        <div class="cont">
+                            <p class="name">Las Vegas <i class="fa fa-chevron-right"></i></p>
+
+                            <p class="text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi harum ut, consequuntur impedit ipsa eaque.
+                            </p>
+
+                            <div class="i">
+                                
+                                <p class="dur">
+                                    <i class="fa fa-clock-o"></i>   
+                                    <span>  15 Days</span>
+                                </p>
+
+                                <div class="rating">
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star h"></i>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="face face4">
+                        
+
+                        <div class="img">
+
+                            <div class="spinner"></div>
+
+                            <img src="" alt="https://i.ibb.co/KFmQvRS/barcelona.jpg" onerror="this.style.display = 'none';">
+                            <p class="p-tag">$ 3,050</p>
+                        </div>
+
+                        <div class="cont">
+                            <p class="name">Barcelona <i class="fa fa-chevron-right"></i></p>
+
+                            <p class="text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi harum ut, consequuntur impedit ipsa eaque.
+                            </p>
+
+                            <div class="i">
+                                
+                                <p class="dur">
+                                    <i class="fa fa-clock-o"></i>   
+                                    <span>  10 Days</span>
+                                </p>
+
+                                <div class="rating">
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star n"></i>
+                                    <i class="fa fa-star n"></i>
+                                </div>
+
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+
+
+        <div class="popular-destinations-landscape">
+            
+
+            <p class="head">
+                Popular Destination
+                <span>View all</span>
+
+            </p>
+
+
+            <div class="cont">
+                
+                <div class="card">
+                    
+                    <div class="img">
+
+                            <div class="spinner"></div>
+
+                            <img src="" alt="https://i.ibb.co/93k2Dg0/greenland.jpg" onerror="this.style.display = 'none';">
+                            <p class="p-tag">$ 3,000</p>
+                        </div>
+
+                        <div class="cont">
+                            <p class="name">Greenland <i class="fa fa-chevron-right"></i></p>
+
+                            <p class="text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi harum ut, consequuntur impedit ipsa eaque.
+                            </p>
+
+                            <div class="i">
+                                
+                                <p class="dur">
+                                    <i class="fa fa-clock-o"></i>   
+                                    <span>  10 Days</span>
+                                </p>
+
+                                <div class="rating">
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star n"></i>
+                                </div>
+
+                            </div>
+                        </div>
+
+                </div>
+                <div class="card">
+                    
+                    <div class="img">
+
+                            <div class="spinner"></div>
+
+                            <img src="" alt="https://i.ibb.co/wBmXFtP/cape-town.jpg" onerror="this.style.display = 'none';">
+                            <p class="p-tag">$ 2,500</p>
+                        </div>
+
+                        <div class="cont">
+                            <p class="name">Cape Town <i class="fa fa-chevron-right"></i></p>
+
+                            <p class="text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi harum ut, consequuntur impedit ipsa eaque.
+                            </p>
+
+                            <div class="i">
+                                
+                                <p class="dur">
+                                    <i class="fa fa-clock-o"></i>   
+                                    <span>  12 Days</span>
+                                </p>
+
+                                <div class="rating">
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star h"></i>
+                                    <i class="fa fa-star n"></i>
+                                </div>
+
+                            </div>
+                        </div>
+
+                </div>
+                <div class="card">
+                    
+                    <div class="img">
+
+                            <div class="spinner"></div>
+
+                            <img src="" alt="https://i.ibb.co/mFsxV1H/las-vegas.jpg" onerror="this.style.display = 'none';">
+                            <p class="p-tag">$ 4,000</p>
+                        </div>
+
+                        <div class="cont">
+                            <p class="name">Las Vegas <i class="fa fa-chevron-right"></i></p>
+
+                            <p class="text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi harum ut, consequuntur impedit ipsa eaque.
+                            </p>
+
+                            <div class="i">
+                                
+                                <p class="dur">
+                                    <i class="fa fa-clock-o"></i>   
+                                    <span>  15 Days</span>
+                                </p>
+
+                                <div class="rating">
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star h"></i>
+                                </div>
+
+                            </div>
+                        </div>
+
+                </div>
+                <div class="card">
+                    <div class="img">
+
+                            <div class="spinner"></div>
+
+                            <img src="" alt="images/barcelona.jpg" onerror="this.style.display = 'none';">
+                            <p class="p-tag">$ 3,050</p>
+                        </div>
+
+                        <div class="cont">
+                            <p class="name">Barcelona <i class="fa fa-chevron-right"></i></p>
+
+                            <p class="text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi harum ut, consequuntur impedit ipsa eaque.
+                            </p>
+
+                            <div class="i">
+                                
+                                <p class="dur">
+                                    <i class="fa fa-clock-o"></i>   
+                                    <span>  10 Days</span>
+                                </p>
+
+                                <div class="rating">
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star f"></i>
+                                    <i class="fa fa-star n"></i>
+                                    <i class="fa fa-star n"></i>
+                                </div>
+
+                            </div>
+                        </div>
+                </div>
+
+            </div>
+
+
+        </div>
+
+
+        <div class="best-offers">
+            
+            <p class="title">BEST OFFERS</p>
+            
+
+
+            <div class="cont">
+                
+                <div class="slide x">
+                        
+                    <div class="img">
+                        
+                        <div class="spinner"></div>
+
+                        <img src="" alt="https://i.ibb.co/PxX9Znn/hamburg.jpg" onerror="this.style.display = 'none';">
+
+                        <div class="cont">
+                            <p class="head">Hamburg</p>
+                            <p class="text"><i>Watch Lakes Dotted With Boats</i></p>
+                            <button>More details <i class="fa fa-long-arrow-right"></i></button>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="slide y">
+                    
+                    <div class="img">
+                        
+                        <div class="spinner"></div>
+
+                        <img src="" alt="https://i.ibb.co/ngPQSd4/whistler.jpg" onerror="this.style.display = 'none';">
+
+                        <div class="cont">
+                            <p class="head">Whistler</p>
+                            <p class="text"><i>Traverse The Hiking Trails</i></p>
+                            <button>More details <i class="fa fa-long-arrow-right"></i></button>
+                        </div>
+
+                    </div>
+
+                </div>
+                
+                <div class="slide x">
+                    
+                    <div class="img">
+                        
+                        <div class="spinner"></div>
+
+                        <img src="" alt="https://i.ibb.co/KNb9s72/newzealand.jpg" onerror="this.style.display = 'none';">
+
+                        <div class="cont">
+                            <p class="head">New Zealand</p>
+                            <p class="text"><i> Scenic Landscapes For Nature Lovers</i></p>
+                            <button>More details <i class="fa fa-long-arrow-right"></i></button>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="slide y">
+                    
+                    <div class="img">
+                        
+                        <div class="spinner"></div>
+
+                        <img src="" alt="https://i.ibb.co/NWKR1HW/prague.jpg" onerror="this.style.display = 'none';">
+
+                        <div class="cont">
+                            <p class="head">Prague</p>
+                            <p class="text"><i>Hub Of Baroque Buildings</i></p>
+                            <button>More details <i class="fa fa-long-arrow-right"></i></button>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+
+
+
+        </div>
+
+
+        <div class="counters">
+            
+            <div class="item">
+                <p class="count" data-to='600' data-speed='1.6'> <span>0</span> + </p>
+                <p class="head">Tours</p>
+            </div>
+
+            <div class="item">
+                <p class="count" data-to='100' data-speed='10'> <span>0</span> + </p>
+                <p class="head">Hotels</p>
+            </div>
+
+            <div class="item">
+                <p class="count" data-to='500' data-speed='2'> <span>0</span> + </p>
+                <p class="head">Happy Customers</p>
+            </div>
+
+            <div class="item">
+                <p class="count" data-to='15' data-speed='150'> <span>0</span> + </p>
+                <p class="head">Years in service</p>
+            </div>
+
+        </div>
+
+
+        <div class="why-choose-us">
+            
+            <p class="head">Why Choose Us</p>
+
+            <div class="items">
+                
+                <div class="cont">
+                    <div class="item">
+                        <div class="cont">
+                            <p class="head">Best Service</p>
+                            <p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque praesentium saepe alias dolore esse aliquam!</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="cont">
+                    <div class="item">
+                        <div class="cont">
+                            <p class="head">Best Price</p>
+                            <p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque praesentium saepe alias dolore esse aliquam!</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="cont">
+                    <div class="item">
+                        <div class="cont">
+                            <p class="head">24x7 Customer Support</p>
+                            <p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque praesentium saepe alias dolore esse aliquam!</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="reviews">
+            
+            <p class="head">Review From Our Customers</p>
+
+
+
+            <div class="review-carousel">
+                
+
+                <div class="left">
+                    <i class="fa fa-chevron-left"></i>
+                    
+                </div>
+
+                <div class="right">
+                    <i class="fa fa-chevron-right"></i>
+                </div>
+
+                <div class="face face1">
+                    
+                    <div class="img">
+                        
+                        <img src="" alt="https://i.ibb.co/s3P6mxh/paul.jpg">
+
+                        <div class="cont">
+                            <p class="name">Paul Molive</p>
+                            <p class="stars">
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="cont t">
+                        <q>Lorem ipsum dolor sit, amet consectetur, adipisicing elit. Fugiat aspernatur tenetur fuga similique ullam maiores amet, culpa consequuntur facilis beatae magnam deserunt voluptatem nostrum. Nulla dolor cupiditate neque cumque, nisi!</q>
+                    </div>
+
+                </div>
+                <div class="face face2">
+                    <div class="img">
+                        <img src="" alt="https://i.ibb.co/3CyLs4M/gail.jpg">
+
+                        <div class="cont">
+                            <p class="name">Gail Forcewind</p>
+                            <p class="stars">
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="cont t">
+                        <q>Lorem ipsum dolor sit, amet consectetur, adipisicing elit. Fugiat aspernatur tenetur fuga similique ullam maiores amet, culpa consequuntur facilis beatae magnam deserunt voluptatem nostrum. Nulla dolor cupiditate neque cumque, nisi!</q>
+                    </div>
+                </div>
+                <div class="face face3">
+                    <div class="img">
+                        <img src="" alt="https://i.ibb.co/jwFgfwY/bob.jpg">
+
+                        <div class="cont">
+                            <p class="name">Bob Frapples</p>
+                            <p class="stars">
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star h"></i>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="cont t">
+                        <q>Lorem ipsum dolor sit, amet consectetur, adipisicing elit. Fugiat aspernatur tenetur fuga similique ullam maiores amet, culpa consequuntur facilis beatae magnam deserunt voluptatem nostrum. Nulla dolor cupiditate neque cumque, nisi!</q>
+                    </div>
+                </div>
+                <div class="face face4">
+                    <div class="img">
+                        <img src="" alt="https://i.ibb.co/7y56Fvb/anna.jpg">
+
+                        <div class="cont">
+                            <p class="name">Anna Sthesia</p>
+                            <p class="stars">
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                                <i class="fa fa-star f"></i>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="cont t">
+                        <q>Lorem ipsum dolor sit, amet consectetur, adipisicing elit. Fugiat aspernatur tenetur fuga similique ullam maiores amet, culpa consequuntur facilis beatae magnam deserunt voluptatem nostrum. Nulla dolor cupiditate neque cumque, nisi!</q>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+
+        <div class="newsletter">
+            
+            <div class="form">
+                <p class="head">Subscribe To Our  Newsletter</p>
+
+                <input type="text" placeholder="Name">
+                <input type="text" placeholder="Email Address">
+
+                <button>Subscribe</button>
+                <button class="landscape">
+                    <i class="fa fa-chevron-right"></i>
+                </button>
+            </div>
+
+        </div>
+
+
+        <div class="blog-posts">
+            <p class="head">News & Blog Posts</p>
+
+            <div class="posts">
+                <div class="post">
+                    <div class="img">
+                        <div class="spinner"></div>
+                        <img src="" alt="https://i.ibb.co/0mbZ5RG/china.jpg">
+                    </div>
+
+                    <div class="cont">
+                        <div class="date">January 10, 2021</div>
+                        <div class="title">72 Hours in China</div>
+                        <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima in, tempore aspernatur iusto alias sit eos illo.</p>
+                        <button>Details</button>
+                    </div>
+                </div>
+                <div class="post">
+                    <div class="img">
+                        <div class="spinner"></div>
+                        <img src="" alt="https://i.ibb.co/gdk1rTd/shanghai.jpg">
+                    </div>
+
+                    <div class="cont">
+                        <div class="date">January 30, 2021</div>
+                        <div class="title">Photo of the Week - Shanghai</div>
+                        <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima in, tempore aspernatur iusto alias sit eos illo.</p>
+                        <button>Details</button>
+                    </div>
+                </div>
+                <div class="post">
+                    <div class="img">
+                        <div class="spinner"></div>
+                        <img src="" alt="https://i.ibb.co/PgLXRjR/tajmahal.jpg">
+                    </div>
+
+                    <div class="cont">
+                        <div class="date">February 16, 2021</div>
+                        <div class="title">10 Interesting Facts About Taj Mahal</div>
+                        <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima in, tempore aspernatur iusto alias sit eos illo.</p>
+                        <button>Details</button>
+                    </div>
+                </div>
+                <div class="post">
+                    <div class="img">
+                        <div class="spinner"></div>
+                        <img src="" alt="https://i.ibb.co/7vDkWZR/dubai.jpg">
+                    </div>
+
+                    <div class="cont">
+                        <div class="date">April 20, 2021</div>
+                        <div class="title">Review of a Weekend in Dubai</div>
+                        <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima in, tempore aspernatur iusto alias sit eos illo.</p>
+                        <button>Details</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+        <div class="footer">
+            <div class="cont">
+                <div>
+                    <p class="head">About Us</p>
+                    <p class="text">Lorem ipsum dolor sit, amet consectetur, adipisicing elit. Ut ad, minima expedita? Ratione quae, rerum delectus modi dolore ullam.</p>
+
+                </div>
+                <div>
+                    
+                    <p class="head">Contact Us</p>
+
+                    <p class="text c">
+                        <i class="fa fa-phone">  <span>0-111222***</span></i>
+                    </p>
+
+                    <p class="text c p">
+                        <i class="fa fa-map-marker">  <span>Somewhere in Asia</span></i>
+                    </p>
+
+                    <p class="text c e">
+                        <i class="fa fa-envelope">  <span>dragontours@example.com</span></i>
+                    </p>
+
+
+                    <p class="text c w">
+                        <i class="fa fa-globe"> 
+                         <span>tanay-bhatt.github.io/dragon-tours</span></i>
+                    </p>
+
+                </div>    
+
+                <div>
+                    
+                    <p class="head">We Accept Online Payments</p>
+                    <img src="" alt="https://i.ibb.co/qFxddLw/card-payments.jpg">
+                    
+                    <p class="text"><i class="fa fa-arrow-circle-o-right"></i> Terms & Conditions</p>
+                    <p class="text p"><i class="fa fa-arrow-circle-o-right"></i> Privacy Policy</p>
+
+                </div>
+
+                
+
+            </div>
+
+
+            <div class="social-icons">
+                <a href="https://www.instagram.com/black_dragon_coders"><span class="fa fa-instagram"></span></a>
+                <a href="https://youtu.be/otYqj7oEaJs"><span class="fa fa-youtube"></span></a>
+                <a href="https://github.com/Tanay-Bhatt"><span class="fa fa-github"></span></a>
+                <a href="https://in.linkedin.com/in/tanay-bhatt-66296818b"><span class="fa fa-linkedin"></span></a>
+            </div>
+        </div>
+
+
+
+    </div>
+
+    <div class="contact">
+        
+        <div class="m-card-c">
+            <p class="head">Contact Us</p>
+        </div>
+
+        <div class="cards">
+            <div class="phone">
+                <i class="fa fa-phone"></i>
+                <p>+91 111 333 ***</p>
+            </div>
+            <div class="address">
+                <p>Somewhere in Asia</p>
+                <i class="fa fa-map-marker"></i>
+            </div>
+            <div class="website">
+                <i class="fa fa-globe"></i>
+                <p><a href="https://tanay-bhatt.github.io/dragon-tours/">tanay-bhatt.github.io/dragon-tours</a></p>
+            </div>
+            <div class="email">
+                <p>dragontours@example.com</p>
+                <i class="fa fa-envelope"></i>
+            </div>
+            
+        </div>
+
+        <div class="send-form">
+            <div>Send Message</div>
+            <form>
+                <input type="text"  placeholder="Full Name">
+                <input type="email" placeholder="Email">
+                <input type="number" placeholder="Phone Number">
+                
+                <textarea name="" id="" cols="30" rows="10" placeholder="Message"></textarea>
+
+                <button>Submit</button>
+            </form>
+        </div>
+
+        <div class="footer">
+            <div class="cont">
+                <div>
+                    <p class="head">About Us</p>
+                    <p class="text">Lorem ipsum dolor sit, amet consectetur, adipisicing elit. Ut ad, minima expedita? Ratione quae, rerum delectus modi dolore ullam.</p>
+
+                </div>
+                <div>
+                    
+                    <p class="head">Contact Us</p>
+
+                    <p class="text c">
+                        <i class="fa fa-phone">  <span>0-111222***</span></i>
+                    </p>
+
+                    <p class="text c p">
+                        <i class="fa fa-map-marker">  <span>Somewhere in Asia</span></i>
+                    </p>
+
+                    <p class="text c e">
+                        <i class="fa fa-envelope">  <span>dragontours@example.com</span></i>
+                    </p>
+
+
+                    <p class="text c w">
+                        <i class="fa fa-globe"> 
+                         <span>tanay-bhatt.github.io/dragon-tours</span></i>
+                    </p>
+
+                </div>    
+
+                <div>
+                    
+                    <p class="head">We Accept Online Payments</p>
+                    <img src="" alt="https://i.ibb.co/qFxddLw/card-payments.jpg">
+                    
+                    <p class="text"><i class="fa fa-arrow-circle-o-right"></i> Terms & Conditions</p>
+                    <p class="text p"><i class="fa fa-arrow-circle-o-right"></i> Privacy Policy</p>
+
+                </div>
+                
+
+            </div>
+
+
+            <div class="social-icons">
+                            <a href="https://www.instagram.com/black_dragon_coders"><span class="fa fa-instagram"></span></a>
+                <a href="https://youtu.be/otYqj7oEaJs"><span class="fa fa-youtube"></span></a>
+                <a href="https://github.com/Tanay-Bhatt"><span class="fa fa-github"></span></a>
+                <a href="https://in.linkedin.com/in/tanay-bhatt-66296818b"><span class="fa fa-linkedin"></span></a></div>
+        </div>
+    </div>
+
+
+    <div class="about">
+        <div class="m-card-a">
+            <p class="head">About Us</p>
+        </div>
+
+        <p class="title">About us</p>
+
+
+
+        <p class="text">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus animi quidem, ipsa voluptas, saepe aliquid expedita aliquam inventore, quia sed magni consectetur qui obcaecati repellendus dolorem illo error nulla ullam?
+        </p>
+
+
+        <div class="our-team">
+            <p class="head-our-team">
+                Our Team
+            </p>
+
+            <div class="card-container">
+                <div class="slide">
+                    <div class="img">
+                        <div class="spinner"></div>
+                        <img src="" alt="mici.png">
+                        <div class="social-icons">
+                            <i class="fa fa-telegram"></i>
+                            <i class="fa fa-instagram"></i>
+                            <i class="fa fa-whatsapp"></i>
+                            <i class="fa fa-twitter"></i>
+                        </div>
+                    </div>
+
+                    <div class="cont">
+                        <p class="name">Micah Addicts</p>
+                        <p class="post">CEO @visit kigezi</p>
+                    </div>
+                </div>
+                <div class="slide">
+                    <div class="img">
+                        <div class="spinner"></div>
+                        <img src="" alt="Deic.png">
+                        <div class="social-icons">
+                            <i class="fa fa-facebook"></i>
+                            <i class="fa fa-instagram"></i>
+                            <i class="fa fa-whatsapp"></i>
+                            <i class="fa fa-twitter"></i>
+                        </div>
+                    </div>
+
+                    <div class="cont">
+                        <p class="name">Derick Mbarushi</p>
+                        <p class="post">Managing Director</p>
+                    </div>
+                </div>
+                <div class="slide">
+                    <div class="img">
+                        <div class="spinner"></div>
+                        <img src="" alt="davis.png">
+                        <div class="social-icons">
+                            <i class="fa fa-facebook"></i>
+                            <i class="fa fa-instagram"></i>
+                            <i class="fa fa-whatsapp"></i>
+                            <i class="fa fa-twitter"></i>
+                        </div>
+                    </div>
+
+                    <div class="cont">
+                        <p class="name">Davos Twishime</p>
+                        <p class="post">Manager</p>
+                    </div>
+                </div>
+                <div class="slide">
+                    <div class="img">
+                        <div class="spinner"></div>
+                        <img src="" alt="happy.png">
+                        <div class="social-icons">
+                            <i class="fa fa-facebook"></i>
+                            <i class="fa fa-instagram"></i>
+                            <i class="fa fa-snapchat"></i>
+                            <i class="fa fa-twitter"></i>
+                        </div>
+                    </div>
+
+                    <div class="cont">
+                        <p class="name">Happy Mfite</p>
+                        <p class="post">Tourist co-ordinator</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+        <div class="footer">
+            <div class="cont">
+                <div>
+                    <p class="head">About Us</p>
+                    <p class="text">Lorem ipsum dolor sit, amet consectetur, adipisicing elit. Ut ad, minima expedita? Ratione quae, rerum delectus modi dolore ullam.</p>
+
+                </div>
+                <div>
+                    
+                    <p class="head">Contact Us</p>
+
+                    <p class="text c">
+                        <i class="fa fa-whatsapp">  <span>+256788360635</span></i>
+                    </p>
+
+                    <p class="text c p">
+                        <i class="fa fa-map-marker">  <span>Somewhere in uganda</span></i>
+                    </p>
+
+                    <p class="text c e">
+                        <i class="fa fa-envelope">  <span>admin@ugabrain.com</span></i>
+                    </p>
+
+
+                    <p class="text c w">
+                        <i class="fa fa-globe"> 
+                         <span>visitkigezi@ugabrain database</span></i>
+                    </p>
+
+                </div>    
+
+                <div>
+                    
+       
+                    
+                    <p class="text"><i class="fa fa-arrow-circle-o-right"></i> Terms & Conditions</p>
+                    <p class="text p"><i class="fa fa-arrow-circle-o-right"></i> Privacy Policy</p>
+
+                </div>
+                
+
+            </div>
+
+
+            <div class="social-icons">
+                            <a href="https://www.instagram.com/black_dragon_coders"><span class="fa fa-instagram"></span></a>
+                <a href="https://youtu.be/otYqj7oEaJs"><span class="fa fa-youtube"></span></a>
+                <a href="+256788360635"><span class="fa fa-whatsapp"></span></a>
+                
+        </div>
+    </div>
+
+    <div class="destination capetown">
+        <div class="img">
+            <img src="" alt="https://i.ibb.co/wBmXFtP/cape-town.jpg">
+            <div class="cont">
+                <p class="name">Cape Town</p>
+            </div>
+        </div>
+
+        <p class="title-d">About The Destination</p>
+
+        <q class="text-d">
+            Cape Town is a port city on South Africa’s southwest coast, on a peninsula beneath the imposing Table Mountain. Slowly rotating cable cars climb to the mountain’s flat top, from which there are sweeping views of the city, the busy harbor and boats heading for Robben Island, the notorious prison that once held Nelson Mandela, which is now a living museum Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit atque, quidem assumenda corrupti, quas blanditiis, velit ex beatae sequi tenetur doloremque ad animi debitis nihil inventore distinctio enim voluptate vitae?
+        </q>
+
+        <div class="details-d">
+            <p> <i class="fa fa-clock-o"></i> 3 days </p>
+            <p> <i class="fa fa-money"></i> $2,500</p>
+            <p> <i class="fa fa-user"></i> 12 </p>
+        </div>
+
+        <div class="tour-plan">
+            <p class="title-d">Tour Plan</p>
+
+            <p class="head-tp">Day 1</p>
+            <p class="text-d">Lorem ipsum dolor sit amet consectetur adipisicing, elit. Aperiam, voluptates. Ipsa maiores vitae quos dolorum voluptate? Repudiandae quas reprehenderit alias distinctio dolor, libero dolores ea, autem, sunt, error corporis eveniet!</p>
+            <img src="" alt="https://i.ibb.co/wBmXFtP/cape-town.jpg" class="img-tp">
+            <p class="head-tp">Day 2</p>
+            <p class="text-d">Lorem ipsum dolor sit amet consectetur adipisicing, elit. Aperiam, voluptates. Ipsa maiores vitae quos dolorum voluptate? Repudiandae quas reprehenderit alias distinctio dolor, libero dolores ea, autem, sunt, error corporis eveniet!</p>
+            <p class="head-tp">Day 3</p>
+            <p class="text-d">Lorem ipsum dolor sit amet consectetur adipisicing, elit. Aperiam, voluptates. Ipsa maiores vitae quos dolorum vol.</p>
+        </div>    
+
+        <div class="reviews">
+            <div class="card">
+                
+                <p class="review">
+                Destination
+                <span>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star "></i>
+                </span>
+            </p>
+            <p class="review">
+                Food
+                <span>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star "></i>
+                </span>
+            </p>
+            <p class="review">
+                Budget
+                <span>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                </span>
+            </p>
+            <p class="review">
+                Transport
+                <span>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star "></i>
+                    <i class="fa fa-star"></i>
+                </span>
+            </p>
+            <p class="review">
+                Accomodation
+                <span>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star h"></i>
+                    <i class="fa fa-star"></i>
+                </span>
+            </p>
+
+            </div>
+        </div>    
+
+        <div class="booking-form">
+            <div class="form">
+                <p class="title-d">Book Now</p>
+
+                <div class="data">
+                    <input type="text" placeholder="Full Name">
+                <input type="text" placeholder="Email Id">
+                <input type="text" placeholder="Phone Number">
+                <input type="text" placeholder="Number of Persons">
+                <input type="text" placeholder="Date (DD/MM/YYYY)">
+
+                <button>Submit Now</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <div class="cont">
+                <div>
+                    <p class="head">About Us</p>
+                    <p class="text">Lorem ipsum dolor sit, amet consectetur, adipisicing elit. Ut ad, minima expedita? Ratione quae, rerum delectus modi dolore ullam.</p>
+
+                </div>
+                <div>
+                    
+                    <p class="head">Contact Us</p>
+
+                    <p class="text c">
+                        <i class="fa fa-phone">  <span>0-111222***</span></i>
+                    </p>
+
+                    <p class="text c p">
+                        <i class="fa fa-map-marker">  <span>Somewhere in Asia</span></i>
+                    </p>
+
+                    <p class="text c e">
+                        <i class="fa fa-envelope">  <span>dragontours@example.com</span></i>
+                    </p>
+
+
+                    <p class="text c w">
+                        <i class="fa fa-globe"> 
+                         <span>tanay-bhatt.github.io/dragon-tours</span></i>
+                    </p>
+
+                </div>    
+
+                <div>
+                    
+                    <p class="head">We Accept Online Payments</p>
+                    <img src="" alt="https://i.ibb.co/qFxddLw/card-payments.jpg">
+                    
+                    <p class="text"><i class="fa fa-arrow-circle-o-right"></i> Terms & Conditions</p>
+                    <p class="text p"><i class="fa fa-arrow-circle-o-right"></i> Privacy Policy</p>
+
+                </div>
+                
+
+            </div>
+
+
+            <div class="social-icons">
+                <a href="https://www.instagram.com/black_dragon_coders"><span class="fa fa-instagram"></span></a>
+                <a href="https://youtu.be/otYqj7oEaJs"><span class="fa fa-youtube"></span></a>
+                <a href="https://github.com/Tanay-Bhatt"><span class="fa fa-github"></span></a>
+                <a href="https://in.linkedin.com/in/tanay-bhatt-66296818b"><span class="fa fa-linkedin"></span></a>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="destination lasvegas">
+        <div class="img">
+            <img src="" alt="https://i.ibb.co/mFsxV1H/las-vegas.jpg">
+            <div class="cont">
+                <p class="name">Las Vegas</p>
+            </div>
+        </div>
+
+        <p class="title-d">About The Destination</p>
+
+        <q class="text-d">
+            Las Vegas, officially the City of Las Vegas and often known simply as Vegas, is the 28th-most populous city in the United States, the most populous city in the state of Nevada, and the county seat of Clark County. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit atque, quidem assumenda corrupti, quas blanditiis, velit ex beatae sequi tenetur doloremque ad animi debitis nihil inventore distinctio enim voluptate vitae?
+        </q>
+
+        <div class="details-d">
+            <p> <i class="fa fa-clock-o"></i> 4 days </p>
+            <p> <i class="fa fa-money"></i> $4,000</p>
+            <p> <i class="fa fa-user"></i> 15 </p>
+        </div>
+
+        <div class="tour-plan">
+            <p class="title-d">Tour Plan</p>
+
+            <p class="head-tp">Day 1</p>
+            <p class="text-d">Lorem ipsum dolor sit amet consectetur adipisicing, elit. Aperiam, voluptates. Ipsa maiores vitae quos dolorum voluptate? Repudiandae quas reprehenderit alias distinctio dolor, libero dolores ea, autem, sunt, error corporis eveniet!</p>
+            <img src="" alt="https://i.ibb.co/mFsxV1H/las-vegas.jpg" class="img-tp">
+            <p class="head-tp">Day 2</p>
+            <p class="text-d">Lorem ipsum dolor sit amet consectetur adipisicing, elit. Aperiam, voluptates. Ipsa maiores vitae quos dolorum voluptate? Repudiandae quas reprehenderit alias distinctio dolor, libero dolores ea, autem, sunt, error corporis eveniet!</p>
+            <p class="head-tp">Day 3</p>
+            <p class="text-d">Lorem ipsum dolor sit amet consectetur adipisicing, elit. Aperiam, voluptates. Ipsa maiores vitae quos dolorum vol.</p>
+            <p class="head-tp">Day 4</p>
+            <p class="text-d">Lorem ipsum dolor sit amet consectetur adipisicing, elit. Aperiam, voluptates. Ipsa maiores vitae quos dolorum voluptate? Repudiandae quas reprehenderit alias distinctio dolor, libero dolores ea, autem, sunt, error corporis eveniet!</p>
+            
+        </div>    
+
+        <div class="reviews">
+            <div class="card">
+                
+                <p class="review">
+                Destination
+                <span>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                </span>
+            </p>
+            <p class="review">
+                Food
+                <span>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                </span>
+            </p>
+            <p class="review">
+                Budget
+                <span>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star"></i>
+                </span>
+            </p>
+            <p class="review">
+                Transport
+                <span>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star f"></i>
+                    <i class="fa fa-star h"></i>
+                    <i class="fa fa-star"></i>
+                </span>
+            </p>
+            <p class="review">
+                Accomodation
+                <span>
+                    <i class="fa fa-star f"></i>
